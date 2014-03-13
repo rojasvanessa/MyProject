@@ -1,0 +1,4 @@
+MyProject
+=========
+<color>
+Background<Blue>
